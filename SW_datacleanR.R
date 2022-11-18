@@ -17,4 +17,4 @@ glimpse((X02_dailyCalories_merged_csv_dailyCalories))
 
 head(X01)
 head(X01_dailyActivity_merged_csv_Copy_of_dailyActivity_merged)
-separate(X05_heartrate_seconds_merged_heartrate_seconds_merged,Time,into=c('date','time'), sep=' ')
+
